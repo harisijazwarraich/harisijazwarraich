@@ -1,4 +1,4 @@
-# Haris — Builder
+# Haris Ijaz
 
 Hey, I'm Haris 👋  
 I build fast, scalable products — from MVPs to production systems.
