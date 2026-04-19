@@ -25,10 +25,6 @@ Hi, I'm Haris, a passionate Flutter developer since 2019, specializing in buildi
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gtaprince1) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hariswarraich_)  
-📫 **Email**: yourname@gmail.com  
-🌟 **Upwork**: [Link to Upwork Profile]  
-🌟 **Fiverr**: [Link to Fiverr Profile]
-
 ## ✊ Support
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
 
